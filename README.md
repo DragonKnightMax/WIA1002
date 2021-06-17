@@ -1,7 +1,10 @@
-# WIA1002-2021 Data Structure
-This is my solution for the lab questions of WIA1002 / WIB1002 Data Structure when I am a First Year student at University Malaya.
+# WIA1002 Data Structure
 
-## Index
+## Project Description
+
+This is my solution for the lab questions of WIA1002 Data Structure taken in Semester 2 when I am a First Year student at University Malaya.
+
+## Table of Content
 
 ### Lab
 - 01-OOP
