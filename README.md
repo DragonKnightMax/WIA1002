@@ -19,10 +19,10 @@ This is my solution for the lab questions of WIA1002 Data Structure taken in Yea
 - 10-Searching and Sorting
 - 11-Tree
 
-### Lab Test
+### Lab Test (In Progress...)
 - 01-OOP
 - 02-Stack
 - 03-Recursion
 
 ## Contributing
-You can fork this repository as a reference for your learning. Please do not just copy the code directly as you will not learn anything. If you found any erros or bugs in the code, please feel free to raise any issues. Pull requests are always welcome if you want to contribute to this project.
+You can fork this repository as a reference for your learning. Please do not just copy the code directly as you will not learn anything. If you found any errors or bugs🐛 in the code, please feel free to raise any issues. Pull requests are always welcome if you want to contribute to this project.
