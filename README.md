@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is my solution for the lab questions of WIA1002 Data Structure taken in Semester 2 when I am a First Year student at University Malaya.
+This is my solution for the lab questions of WIA1002 Data Structure taken in Year 2020 Semester 2 when I am a First Year student at University Malaya.
 
 ## Table of Content
 
