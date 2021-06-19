@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is my solution for the lab questions of WIA1002 Data Structure taken in Year 2020 Semester 2 when I am a First Year student at University Malaya.
+This is my solution for the lab questions of WIA1002 Data Structure for Semester 2 taken in Year 2021 when I am a First Year student at University of Malaya.
 
 ## Table of Content
 
@@ -17,7 +17,7 @@ This is my solution for the lab questions of WIA1002 Data Structure taken in Yea
 - 08-Graph
 - 09-Recursion
 - 10-Searching and Sorting
-- 11-Tree
+- 11-Binary Search Tree
 
 ### Lab Test (In Progress...)
 - 01-OOP
